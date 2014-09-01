@@ -28,7 +28,7 @@ latest('jbnicolai', 'latest-release', function (release, err) {
 
 ## API
 
-## function (<github-user>, <github-project, cb(<release-json>, <err>))
+#### function (github-user, github-project, cb(release-json, err))
 
 The package is called with a Github username and the name of a project, and is provided a callback.
 Said callback will be invoked with the JSON data returned from the Github API, or an error object if anything failed.
