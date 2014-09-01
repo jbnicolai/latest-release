@@ -1,6 +1,6 @@
 {
   "name": "latest-release",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retrieve the latest Github release version for your project",
   "repository": "jbnicolai/latest-release",
   "main": "index.js",
